@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/fche169506bdmg6l?svg=true)](https://ci.appveyor.com/project/Elena-S04/ra-hooks-context-use-json-fetch)
+[![Build status](https://ci.appveyor.com/api/projects/status/8qe3l34oru82rm6m?svg=true)](https://ci.appveyor.com/project/Elena-S04/ra-hooks-context-use-json-fetch-61m4f)
 
-https://elena-s04.github.io/ra_hooks-context_use-json-fetch/
+
 
 # Getting Started with Create React App
 
